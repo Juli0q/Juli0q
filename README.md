@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats-rho-ten-94.vercel.app/api/top-langs/?username=juli0q&layout=pie)]()
+
+
+
 <!--
 **Juli0q/Juli0q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
